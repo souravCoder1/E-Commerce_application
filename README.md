@@ -1,8 +1,8 @@
-# E-Commerce
+## E-Commerce
 
 Developed an end to end Ecommerce web Application using Spring MVC with multiple modules
 
-###Functionalities:
+### Functionalities:
 
 1. User Registeration
 
@@ -26,8 +26,8 @@ Receipt
 If the user cancel the webflow it will go to cancel Page
 If the user submits the checkout it will go to thank you page with the timing of delivery Report
 
-###Tools and Technologies:
+### Tools and Technologies:
 
 **Technology** : Bootstrap, Java, Spring MVC, Hibernate, JSP, Maven.
-***Application** Servicer: Apache Tomcat Server
-***Database*** : H2 Database.
+**Application* Servicer: Apache Tomcat Server
+**Database** : H2 Database.
